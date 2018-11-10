@@ -10,7 +10,7 @@ Features
 4. Counter in the right corner of the GLCD. As the player starts the game the value of timer goes on decreasing. When it reaches to zero the game gets over.
 5. Level Indicator in the left corner of the GLCD. It shows the level which is being played.
 6. Menu for Selecting Different Channels.
-7. Switches to control the game play which includes mainly 5 switches which are as follows:
+7. Switches to control the game play which includes mainly 5 switches which are as follows:  
         i. Restart feature enables the player to restart the game.   
         ii. Pause switch pauses the game. As we press this switch the time will stop changing.  
         iii. Resume enables the player to resume the game from where it has been paused and the counter will start flowing again from its               previous value.  
