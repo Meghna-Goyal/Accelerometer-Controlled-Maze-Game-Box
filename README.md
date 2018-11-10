@@ -18,9 +18,15 @@ Features
 8. Battery to make setup Portable.
 
 Team
+
 Pushkar Shukla
+
 Jitendra Sharma
+
 Meghna Goyal
+
 Hitesh Tripathi
+
 Shailesh Bisht
+
 Arun Panwar
