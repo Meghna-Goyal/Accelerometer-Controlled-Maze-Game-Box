@@ -11,10 +11,10 @@ Features
 5. Level Indicator in the left corner of the GLCD. It shows the level which is being played.
 6. Menu for Selecting Different Channels.
 7. Switches to control the game play which includes mainly 5 switches which are as follows:
-        i. Restart feature enables the player to restart the game. 
-        ii. Pause switch pauses the game. As we press this switch the time will stop changing.
-        iii. Resume enables the player to resume the game from where it has been paused and the counter will start flowing again from its               previous value.
-        iv. Reset resumes the particular level. v. High Score of game has been recorded which can be viewed by pressing the high score                   switch. It also stores the top three scores of the games played.
+        i. Restart feature enables the player to restart the game.   
+        ii. Pause switch pauses the game. As we press this switch the time will stop changing.  
+        iii. Resume enables the player to resume the game from where it has been paused and the counter will start flowing again from its               previous value.  
+        iv. Reset resumes the particular level. v. High Score of game has been recorded which can be viewed by pressing the high score                   switch. It also stores the top three scores of the games played.   
 8. Battery to make setup Portable.
 
 Team
