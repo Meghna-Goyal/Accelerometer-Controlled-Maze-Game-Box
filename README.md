@@ -19,9 +19,9 @@ Features
 
 Team
 
-Pushkar Shukla
-Jitendra Sharma
-Meghna Goyal
-Hitesh Tripathi
-Shailesh Bisht
-Arun Panwar
+> Pushkar Shukla   
+> Jitendra Sharma
+> Meghna Goyal
+> Hitesh Tripathi
+> Shailesh Bisht
+> Arun Panwar
